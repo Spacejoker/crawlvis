@@ -1,3 +1,4 @@
+export const NAGA_15_RUNES = `
  Dungeon Crawl Stone Soup version 0.27.1-1-g398f81649c (webtiles) character file.
 
 Game seed: 17890100424786409639
@@ -1985,7 +1986,7 @@ Translocations |                                   3                            
 Transmutations |                                         5  8  9 10                            18 | 18.0
 Armour         |                                         3              5  7                   15 | 15.0
 Stealth        |                                            8             12                      | 12.0
-Air Magic      |                                               5                               24 | 24.0
+Air Magic      |                                               6                               24 | 24.0
 Hexes          |                                                           5                      |  5.0
 Necromancy     |                                                                               24 | 24.8
 Staves         |                                                                               11 | 11.7
@@ -2044,3 +2045,4 @@ Block: Buckler           |       |       |       |    13 |       |       |      
        Tower shield      |       |       |       |       |       |       |       |       |  2734 ||  2734
 Rpst.: Scimitar          |       |       |       |    24 |    52 |    35 |    32 |    21 |    47 ||   211
        Demon blade       |       |       |       |       |       |       |       |       |     9 ||     9
+`;
